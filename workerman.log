@@ -949,3 +949,4 @@ Stack trace:
 2016-02-19 23:59:49 Workerman[start.php] Stopping ...
 2016-02-19 23:59:49 Workerman[start.php] has been stopped
 2016-02-19 23:59:49 Workerman[start.php] stop success
+2016-02-20 00:07:53 Workerman[start.php] start in DAEMON mode
